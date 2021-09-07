@@ -70,6 +70,7 @@ body {
   color: coral;
   width: 90px;
   height: 40px;
+  border-radius: 30px;
 }
 
 #copy-btn:hover {
